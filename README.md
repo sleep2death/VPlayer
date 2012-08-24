@@ -1,4 +1,4 @@
 VPlayer
-=======
+============
 
-VPlayer For VMax
+An actionscript framework for streaming videos.
